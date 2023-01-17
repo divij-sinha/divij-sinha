@@ -1,3 +1,3 @@
 ### Welcome!
 
-I'm Divij Sinha, graduated with a major in Electrical and Electronics Engineering and a minor in Politics, Economics and Philosophy, currently working in the Urban Informatics Lab at the Indian Institute for Human Settlements.
+I'm Divij Sinha, currently in the MS in Computational Analysis and Public Policy at the University of Chicago. Previously, I spent time working at the Urban Informatics Lab at the Indian Institute for Human Settlements. I graduated with a major in Electrical and Electronics Engineering and a minor in Politics, Economics and Philosophy.
