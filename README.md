@@ -10,6 +10,6 @@ Welcome!
 
 📚 I am continually seeking opportunities to apply my skills in real-world settings, collaborating with peers, academics, and industry professionals. I'm particularly interested in projects at the intersection of technology, data science, and social justice, aiming to contribute to equitable and effective public policies.
 
-🌱 While my GitHub is currently under development, reflecting my ongoing journey in tech and policy, I am committed to building a portfolio that not only showcases my technical skills but also my dedication to meaningful, impactful work. I welcome collaboration, discussion, and the exchange of ideas with fellow enthusiasts in the field. Code samples and project details are available upon request, demonstrating my approach to problem-solving and innovation in public policy.
+🌱 Mode samples and project details are available upon request, demonstrating my approach to problem-solving and innovation in public policy.
 
 Thank you for visiting my profile. Let's connect and explore the transformative power of data and technology in shaping a better future for our communities and the world at large.
