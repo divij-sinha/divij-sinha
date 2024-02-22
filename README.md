@@ -1,5 +1,15 @@
-### Welcome!
+### Hey, I'm Divij!
 
-I'm Divij Sinha, currently in the MS in Computational Analysis and Public Policy at the University of Chicago. Previously, I spent time working at the Urban Informatics Lab at the Indian Institute for Human Settlements. I graduated with a major in Electrical and Electronics Engineering and a minor in Politics, Economics and Philosophy.
+Welcome!
 
-PS: My github is a little sparse and I am building it up, but code samples available on request! 
+👨‍💻 I'm Divij Sinha, an aspiring data scientist and policy analyst, currently enrolled in the MS in Computational Analysis and Public Policy at the University of Chicago. 
+
+🏛 Previously, I've had the privilege of working at the Urban Informatics Lab at the Indian Institute for Human Settlements. Here, I immersed myself in the fascinating world of urban data, working on projects that leverage technology to make cities more livable and sustainable. My role involved data analysis, visualization, and modeling, contributing to research that informs urban planning and policy decisions.
+
+🌟 Throughout my career, I've been driven by the belief that technology, when thoughtfully applied, can be a powerful tool for public good. My experiences have spanned across data science, policy analysis, and urban informatics, each reinforcing my commitment to using data for societal improvement. I've had the opportunity to work on projects ranging from large scale surveys to energy sustainability, offering insights into the challenges and opportunities in leveraging technology for public policy.
+
+📚 I am continually seeking opportunities to apply my skills in real-world settings, collaborating with peers, academics, and industry professionals. I'm particularly interested in projects at the intersection of technology, data science, and social justice, aiming to contribute to equitable and effective public policies.
+
+🌱 While my GitHub is currently under development, reflecting my ongoing journey in tech and policy, I am committed to building a portfolio that not only showcases my technical skills but also my dedication to meaningful, impactful work. I welcome collaboration, discussion, and the exchange of ideas with fellow enthusiasts in the field. Code samples and project details are available upon request, demonstrating my approach to problem-solving and innovation in public policy.
+
+Thank you for visiting my profile. Let's connect and explore the transformative power of data and technology in shaping a better future for our communities and the world at large.
