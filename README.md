@@ -2,7 +2,7 @@
 
 Welcome!
 
-👨‍💻 I'm Divij Sinha, a data scientist and policy analyst, currently enrolled in the MS in Computational Analysis and Public Policy at the University of Chicago. 
+👨‍💻 I'm Divij Sinha, a data scientist and policy analyst, recently graduated in the MS in Computational Analysis and Public Policy at the University of Chicago. 
 
 🏛 I am currently a Research Engineer at the Mansueto Institute for Urban Innovation, at the University of Chicago. Previously, I've had the privilege of working at the Urban Informatics Lab at the Indian Institute for Human Settlements.
 
